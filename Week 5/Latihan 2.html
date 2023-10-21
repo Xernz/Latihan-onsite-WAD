@@ -1,0 +1,19 @@
+<!DOCTYPE html?>
+<html>
+<head>
+    <title>Latihan Function Script</title>
+</head>
+<body>
+    <h1>Merubah Gambar</h1>
+    <img id="Gambar" onclick="changeImage()" src="Waifu.jpeg" width="100%" height="100%">
+    <p>Click Aku</p>
+    <script>
+        function changeImage(){
+            var image =document.getElementById("Gambar");
+            if (image.src.match("Waifu")) {
+                image.src="puan.jpeg";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    color: greenyellow;
+}
+h3{
+    text-align: center;
+    color: Red;
+}
+p{
+    text-align: center;
+    color: wheat;
+    letter-spacing: normal;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    background-image: url(./Maling.jpeg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+h2{
+    text-align: center;
+    color: greenyellow;
+}
+h3{
+    text-align: center;
+    color: Red;
+}
+p{
+    text-align: center;
+    color: wheat;
+    letter-spacing: normal;
+}
